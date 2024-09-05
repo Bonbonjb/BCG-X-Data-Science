@@ -1,5 +1,7 @@
 PowerCo Analysis Project
+
 Project Description
+
 This project involves exploratory data analysis (EDA), feature engineering, and modeling for PowerCo, a hypothetical energy company. The primary objective is to analyze the given data, engineer relevant features, and develop predictive models to draw insights and support business decisions.
 
 File Structure
